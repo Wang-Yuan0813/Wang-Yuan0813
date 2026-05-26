@@ -66,7 +66,7 @@ This project was a cross-cultural team collaboration, in which I was responsible
 <table>
 <tr>
 <td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
-<h2>Survivor-like game  <span><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=c%2B%2B"/></span>  🔗<a href="https://github.com/Wang-Yuan0813/WarwickStudy_coursework">Repository</a> </h2>
+<h2>Survivor-like Game  <span><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=c%2B%2B"/></span>  🔗<a href="https://github.com/Wang-Yuan0813/WarwickStudy_coursework">Repository</a> </h2>
 <p>
 本项目完成了一个拥有存档、武器选择、多关卡等功能的2D俯视角射击游戏，使用C++进行开发，玩家需要控制英雄在如潮水般的敌人群中生存下来进入下一关卡。
   
