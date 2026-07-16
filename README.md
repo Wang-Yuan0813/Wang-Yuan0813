@@ -66,6 +66,33 @@ This project was a cross-cultural team collaboration, in which I was responsible
 <table>
 <tr>
 <td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
+<h2>Bring me toilet!
+<span>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white"/>
+</span>
+  🔗<a href="https://github.com/Wang-Yuan0813/Generative-Agents-in-Unity">Repository</a> </h2>
+<p>
+  
+在2023年斯坦福大学发表的生成式智能体论文的启发下，尝试使用该技术完成解密类型游戏的交互设计。在unity项目中接入Deepseek大语言模型，并使用C#对游戏进行程序设计，通过提示词限制大模型返回标准JSON格式来实现大模型指令到程序功能接口的映射。智能体拥有感知、记忆、决策模块，参考论文实现整体架构，并增加了玩家交互模块。
+  
+Inspired by Stanford University’s 2023 “Generative Agents” paper, this project explores how generative-agent technology can be applied to interaction design in puzzle‑solving games. The Unity project integrates the DeepSeek large language model and uses C# for gameplay programming. By constraining the model to return standardized JSON through prompt engineering, the system maps LLM‑generated instructions to in‑game functional interfaces.
+
+The agent features perception, memory, and decision‑making modules, following the architecture described in the original paper, with an additional player‑interaction module tailored for game scenarios.
+  
+</p>
+<p align="center">
+  <img src="https://github.com/Wang-Yuan0813/Generative-Agents-in-Unity/raw/main/Examples/type.gif" width="33%" />
+  <img src="https://github.com/Wang-Yuan0813/Generative-Agents-in-Unity/raw/main/Examples/mainmenu.png" width="33%" />
+  <img src="https://github.com/Wang-Yuan0813/Generative-Agents-in-Unity/raw/main/Examples/move.gif" width="33%" />
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
 <h2>Survivor-like Game  <span><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=c%2B%2B"/></span>  🔗<a href="https://github.com/Wang-Yuan0813/WarwickStudy_coursework">Repository</a> </h2>
 <p>
 本项目完成了一个拥有存档、武器选择、多关卡等功能的2D俯视角射击游戏，使用C++进行开发，玩家需要控制英雄在如潮水般的敌人群中生存下来进入下一关卡。
