@@ -66,7 +66,7 @@ This project was a cross-cultural team collaboration, in which I was responsible
 <table>
 <tr>
 <td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
-<h2>Bring me toilet!
+<h2>Bring toilet paper!
 <span>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white"/>
