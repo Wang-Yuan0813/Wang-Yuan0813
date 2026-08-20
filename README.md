@@ -71,10 +71,10 @@ This project was a cross-cultural team collaboration, in which I was responsible
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white"/>
 </span>
-  🔗<a href="https://github.com/Wang-Yuan0813/Action-Game-Demo">Repository</a> </h2>
+  🔗<a href="https://github.com/Wang-Yuan0813/2D-Action-Game-in-Unity">Repository</a> </h2>
 <p>
   
-本项目基于《空洞骑士》的战斗风格以及《蔚蓝》的操作手感，使用unity进行开发，制作了一款拥有弹刀等战斗机制的横版像素风格游戏，玩家需要扮演一位窥视梦境的侦探，在循环和战斗中解开谜题揭露真相。游戏中的谜题 NPC 由本地运行的开源语言模型支持，能够理解玩家以自然语言提出的问题，并以结构化结果返回“是”“否”“无关”或“接近真相”等回答。
+本项目基于《空洞骑士》的战斗风格以及《蔚蓝》的操作手感，使用unity进行开发，制作了一款拥有招架等战斗机制的横版像素风格游戏，玩家需要扮演一位窥视梦境的侦探，在循环和战斗中解开谜题揭露真相。游戏中的谜题 NPC 由本地运行的开源语言模型支持，能够理解玩家以自然语言提出的问题，并以结构化结果返回“是”“否”“无关”或“接近真相”等回答。
   
 This project is developed in Unity and draws inspiration from the combat style of Hollow Knight and the precise control feel of Celeste. It is a side‑scrolling pixel‑art game featuring mechanics such as parrying. Players take on the role of a detective who peers into dreams, uncovering the truth through cycles of puzzles and combat.
 
