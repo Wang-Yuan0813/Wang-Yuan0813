@@ -66,6 +66,33 @@ This project was a cross-cultural team collaboration, in which I was responsible
 <table>
 <tr>
 <td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
+<h2>Action 2D Pixel Game  
+<span>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white"/>
+</span>
+  🔗<a href="https://github.com/Wang-Yuan0813/Action-Game-Demo">Repository</a> </h2>
+<p>
+  
+本项目基于《空洞骑士》的战斗风格以及《蔚蓝》的操作手感，使用unity进行开发，制作了一款拥有弹刀等战斗机制的横版像素风格游戏，玩家需要扮演一位窥视梦境的侦探，在循环和战斗中解开谜题揭露真相。游戏中的谜题 NPC 由本地运行的开源语言模型支持，能够理解玩家以自然语言提出的问题，并以结构化结果返回“是”“否”“无关”或“接近真相”等回答。
+  
+This project is developed in Unity and draws inspiration from the combat style of Hollow Knight and the precise control feel of Celeste. It is a side‑scrolling pixel‑art game featuring mechanics such as parrying. Players take on the role of a detective who peers into dreams, uncovering the truth through cycles of puzzles and combat.
+
+The puzzle‑solving NPCs are powered by a locally running open‑source language model, capable of understanding player queries expressed in natural language and returning structured responses such as “Yes,” “No,” “Irrelevant,” or “Close to the truth.”
+  
+</p>
+<p align="center">
+  <img src="https://github.com/Wang-Yuan0813/2D-Action-Game-in-Unity/raw/main/gifs/boss1.gif" width="30%" />
+  <img src="https://github.com/Wang-Yuan0813/2D-Action-Game-in-Unity/raw/main/gifs/boss2.gif" width="38%" />
+  <img src="https://github.com/Wang-Yuan0813/2D-Action-Game-in-Unity/raw/main/gifs/questions.gif" width="30%" />
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
 <h2>Bring toilet paper!
 <span>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
@@ -129,30 +156,7 @@ This project is built using the DirectX 12 API, with code written in C++ and HLS
 </tr>
 </table>
 
-<table>
-<tr>
-<td bgcolor="#e3f2fd" style="border:1px solid #90caf9; border-radius:12px; padding:20px;">
-<h2>Action 2D Pixel Game  
-<span>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white"/>
-</span>
-  🔗<a href="https://github.com/Wang-Yuan0813/Action-Game-Demo">Repository</a> </h2>
-<p>
-  
-本项目基于《空洞骑士》的战斗风格以及《蔚蓝》的操作手感，使用unity进行开发，制作了一款拥有弹刀等战斗机制的横版像素风格游戏，玩家需要扮演一位窥视梦境的侦探，在循环和战斗中解开谜题揭露真相。
-  
-This project draws inspiration from the combat style of Hollow Knight and the control feel of Celeste. It is developed using Unity and is a side-scrolling pixel-art game featuring combat mechanics such as parrying. The player takes on the role of a detective who explores dreams, uncovering the truth by solving puzzles through cycles and battles.
-  
-</p>
-<p align="center">
-  <img src="https://github.com/Wang-Yuan0813/before-dawn/raw/master/Examples/mainmenu.gif" width="32%" />
-  <img src="https://github.com/Wang-Yuan0813/before-dawn/raw/master/Examples/fight.gif" width="38%" />
-  <img src="https://github.com/Wang-Yuan0813/before-dawn/raw/master/Examples/dialog.gif" width="25%" />
-</p>
-</td>
-</tr>
-</table>
+
 
 <table>
 <tr>
